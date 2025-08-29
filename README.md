@@ -4,9 +4,6 @@ This repository collects blockchain challenges in CTFs and wargames.
 These challenges are categorized by topic, not by difficulty or recommendation.
 Some of them include personal writeups and solutions (e.g., [Paradigm CTF 2022](src/ParadigmCTF2022/)).
 Please be aware that these contain spoilers. For contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-
-
 ---
 
 **Table of Contents**
